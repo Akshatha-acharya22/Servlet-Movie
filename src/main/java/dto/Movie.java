@@ -53,5 +53,5 @@ public byte[] getPicture() {
 public void setPicture(byte[] picture) {
 	this.picture = picture;
 }
-
+                     
 }
